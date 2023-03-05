@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/keepgoingwm/knownledge_points-JavaScript#readme",
   "devDependencies": {
-    "commitizen": "^4.1.2",
+    "commitizen": "^4.3.0",
     "conventional-changelog": "^3.1.21",
     "cz-conventional-changelog": "^3.2.0",
     "git-cz": "^4.7.0"
